@@ -36,13 +36,17 @@ I'm a software engineer with a passion for solving complex algorithmic problems 
 ### 🏆 Achievements & Streaks
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sojournes&theme=tokyonight&no-frame=true&column=6&margin-w=15" alt="trophies" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sojournes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+  <h3>📊 Project & Problem Solving Stats</h3>
+  
+  <a href="https://github.com/Sojournes/Forsight-Foods">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sojournes&repo=Forsight-Foods&theme=tokyonight&hide_border=true&title_color=white&icon_color=3382ed" height="150" alt="Forsight Foods" />
+  </a>
+  
+  <a href="https://codeforces.com/profile/sojourns">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sojourns&theme=tokyonight&hide_border=true&no_bg=true" height="150" alt="Codeforces" />
+  </a>
 
-### 🧠 LeetCode Progress
-
-<div align="center">
-  <img src="https://leetcode-stats-ivy.vercel.app/api?username=diwakarsehgal&theme=tokyonight" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/diwakarsehgal/">
+    <img src="https://leetcard.jacoblin.cool/diwakarsehgal?theme=tokyonight&font=Inter&ext=heatmap" height="150" alt="LeetCode" />
+  </a>
 </div>
