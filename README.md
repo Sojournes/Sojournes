@@ -4,7 +4,7 @@
 
 I'm a software engineer with a passion for solving complex algorithmic problems and building intelligent systems. I bridge the gap between heavy backend logic and modern AI solutions.
 
-- 🏆 **Competitive Programming:** Knight Badge on Leetcode.
+- 🏆 **Competitive Programming:** Knight Badge on LeetCode.
 - 🔭 **Currently Working on:** A DeepFake Detection System & Medical EMR Agents.
 - 🌟 **Interests:** Machine Learning, Deep Learning, Cloud Architecture (Azure), and Computer Vision.
 - 🌱 **Learning:** Advanced LLM Scaling Laws & System Design.
@@ -33,15 +33,16 @@ I'm a software engineer with a passion for solving complex algorithmic problems 
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Achievements & Streaks
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sojournes&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sojournes&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sojournes&theme=tokyonight&no-frame=true&column=6&margin-w=15" alt="trophies" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sojournes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-### 🏆 LeetCode Stats
+### 🧠 LeetCode Progress
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/diwakarsehgal?theme=tokyonight&font=Open%20Sans&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats-ivy.vercel.app/api?username=diwakarsehgal&theme=tokyonight" alt="LeetCode Stats" />
 </div>
