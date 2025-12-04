@@ -4,7 +4,7 @@
 
 I'm a software engineer with a passion for solving complex algorithmic problems and building intelligent systems. I bridge the gap between heavy backend logic and modern AI solutions.
 
-- 🏆 **Competitive Programming:** Knight Badge on LeetCode.
+- 🏆 **Competitive Programming:** Knight Badge on Leetcode.
 - 🔭 **Currently Working on:** A DeepFake Detection System & Medical EMR Agents.
 - 🌟 **Interests:** Machine Learning, Deep Learning, Cloud Architecture (Azure), and Computer Vision.
 - 🌱 **Learning:** Advanced LLM Scaling Laws & System Design.
@@ -29,19 +29,19 @@ I'm a software engineer with a passion for solving complex algorithmic problems 
 **Backend & Cloud**
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sojournes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sojournes&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sojournes&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sojournes&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
 </div>
 
 ### 🏆 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Sojournes?theme=tokyonight&font=Open%20Sans&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/diwakarsehgal?theme=tokyonight&font=Open%20Sans&ext=heatmap" alt="LeetCode Stats" />
 </div>
