@@ -36,17 +36,19 @@ I'm a software engineer with a passion for solving complex algorithmic problems 
 ### 🏆 Achievements & Streaks
 
 <div align="center">
-  <h3>📊 Project & Problem Solving Stats</h3>
+  <h3>📊 Coding Profile Stats</h3>
   
-  <a href="https://github.com/Sojournes/Forsight-Foods">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sojournes&repo=Forsight-Foods&theme=tokyonight&hide_border=true&title_color=white&icon_color=3382ed" height="150" alt="Forsight Foods" />
+  <a href="https://github.com/Sojournes">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sojournes&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
   </a>
   
   <a href="https://codeforces.com/profile/sojourns">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sojourns&theme=tokyonight&hide_border=true&no_bg=true" height="150" alt="Codeforces" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sojourns&theme=tokyonight&hide_border=true&no_bg=true" height="180" alt="Codeforces" />
   </a>
 
+  <br/> <br/>
+
   <a href="https://leetcode.com/u/diwakarsehgal/">
-    <img src="https://leetcard.jacoblin.cool/diwakarsehgal?theme=tokyonight&font=Inter&ext=heatmap" height="150" alt="LeetCode" />
+    <img src="https://leetcard.jacoblin.cool/diwakarsehgal?theme=tokyonight&font=Inter&ext=heatmap" alt="LeetCode" />
   </a>
 </div>
