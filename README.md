@@ -43,7 +43,7 @@ I'm a software engineer with a passion for solving complex algorithmic problems 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/diwakarsehgal/">
-    <img src="https://leetcode.card.workers.dev/diwakarsehgal?theme=nord&font=source_code_pro&extension=activity" height="300" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/diwakarsehgal?ext=contest" height="300" alt="LeetCode Stats" />
   </a>
 
 </div>
