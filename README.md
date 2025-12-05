@@ -38,7 +38,7 @@ I'm a software engineer with a passion for solving complex algorithmic problems 
 
 <div align="left">
 
-  <a href="https://codeforces.com/profile/sojourns" style="margin-right: 300px;">
+  <a href="https://codeforces.com/profile/sojourns" style="margin-right: 200px;">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sojourns&theme=tokyonight&hide_border=true&no_bg=true" height="300" alt="Codeforces Stats" />
   </a>
   <a href="https://leetcode.com/u/diwakarsehgal/">
