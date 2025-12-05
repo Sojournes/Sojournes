@@ -25,6 +25,7 @@ I'm a software engineer with a passion for solving complex algorithmic problems 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 **Backend & Cloud**
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -37,7 +38,7 @@ I'm a software engineer with a passion for solving complex algorithmic problems 
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Sojournes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sojournes&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sojournes&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="Top Languages" />
 
@@ -48,7 +49,7 @@ I'm a software engineer with a passion for solving complex algorithmic problems 
   </a>
 
   <a href="https://leetcode.com/u/diwakarsehgal/">
-    <img src="https://leetcard.jacoblin.cool/diwakarsehgal?theme=tokyonight&font=Inter&ext=heatmap" height="180" alt="LeetCode Stats" />
+    <img src="https://leetcode-stats-six.vercel.app/?username=diwakarsehgal&theme=tokyonight" height="180" alt="LeetCode Stats" />
   </a>
 
 </div>
