@@ -49,7 +49,7 @@ I'm a software engineer with a passion for solving complex algorithmic problems 
   </a>
 
   <a href="https://leetcode.com/u/diwakarsehgal/">
-    <img src="https://leetcode-stats-six.vercel.app/?username=diwakarsehgal&theme=tokyonight" height="180" alt="LeetCode Stats" />
+    <img src="https://leetcode.card.workers.dev/diwakarsehgal?theme=nord&font=source_code_pro&extension=activity" height="180" alt="LeetCode Stats" />
   </a>
 
 </div>
