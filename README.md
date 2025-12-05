@@ -38,16 +38,12 @@ I'm a software engineer with a passion for solving complex algorithmic problems 
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sojournes&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sojournes&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="Top Languages" />
-
-  <br/>
-
   <a href="https://codeforces.com/profile/sojourns">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sojourns&theme=tokyonight&hide_border=true&no_bg=true" height="180" alt="Codeforces Stats" />
   </a>
 
+  <br/>
+  
   <a href="https://leetcode.com/u/diwakarsehgal/">
     <img src="https://leetcode.card.workers.dev/diwakarsehgal?theme=nord&font=source_code_pro&extension=activity" height="180" alt="LeetCode Stats" />
   </a>
